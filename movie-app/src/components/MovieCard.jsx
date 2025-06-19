@@ -1,4 +1,4 @@
-import App from "../App.jsx";
+import "../css/MovieCard.css"
 
 function MovieCard({movie}) {
     function onFavouriteClick(){
